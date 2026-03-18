@@ -2,6 +2,6 @@
 	<head>
 	</head>
 	<body>
-이명휘
+	이명휘
 	</body>
 </html>
